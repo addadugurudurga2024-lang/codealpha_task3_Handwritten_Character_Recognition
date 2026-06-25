@@ -1,7 +1,6 @@
-========================================
+
    HANDWRITTEN CHARACTER RECOGNITION
    Sample Predictions — First 10 Test Images
-========================================
 
  Index | Actual Label | Predicted Label | Correct?
 -------|--------------|-----------------|----------
@@ -16,9 +15,8 @@
    8   |      5       |        5        |   ✓ Yes
    9   |      9       |        9        |   ✓ Yes
 
-----------------------------------------
 All 10 sample predictions: CORRECT
-----------------------------------------
+
 NOTE: Values shown are representative examples.
 Actual predictions may vary per run.
-========================================
+
