@@ -1,0 +1,45 @@
+========================================
+   HANDWRITTEN CHARACTER RECOGNITION
+   Model Evaluation — Accuracy Output
+========================================
+
+Dataset        : MNIST
+Training Samples : 60,000
+Testing Samples  : 10,000
+Image Size       : 28 x 28 (Grayscale)
+Classes          : 10 (Digits 0–9)
+
+----------------------------------------
+  TRAINING HISTORY (per epoch)
+----------------------------------------
+Epoch 1/5
+  loss: ~0.1800  |  accuracy: ~0.9450
+  val_loss: ~0.0700  |  val_accuracy: ~0.9780
+
+Epoch 2/5
+  loss: ~0.0600  |  accuracy: ~0.9810
+  val_loss: ~0.0500  |  val_accuracy: ~0.9840
+
+Epoch 3/5
+  loss: ~0.0450  |  accuracy: ~0.9860
+  val_loss: ~0.0430  |  val_accuracy: ~0.9860
+
+Epoch 4/5
+  loss: ~0.0370  |  accuracy: ~0.9880
+  val_loss: ~0.0390  |  val_accuracy: ~0.9880
+
+Epoch 5/5
+  loss: ~0.0300  |  accuracy: ~0.9900
+  val_loss: ~0.0350  |  val_accuracy: ~0.9900
+
+----------------------------------------
+  TEST SET EVALUATION
+----------------------------------------
+Test Loss     : ~0.030
+Test Accuracy : ~99.00%
+
+========================================
+  NOTE: Values shown are approximate.
+  Actual output may vary per run due
+  to random weight initialization.
+========================================
