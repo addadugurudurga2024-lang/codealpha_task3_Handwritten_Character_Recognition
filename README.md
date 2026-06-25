@@ -24,7 +24,6 @@ codealpha_task3_Handwritten_Character_Recognition/
 │
 ├── source_code/
 │   ├── handwritten_character_recognition.py    # Main Python script
-│   └── handwritten_character_recognition.ipynb # Jupyter Notebook version
 │
 ├── report/
 │   └── Handwritten_Character_Recognition_Report.pdf
@@ -113,14 +112,6 @@ pip install -r requirements.txt
 python source_code/handwritten_character_recognition.py
 ```
 
-Or open the Jupyter Notebook:
-
-```bash
-jupyter notebook source_code/handwritten_character_recognition.ipynb
-```
-
----
-
 ## 📦 Requirements
 
 See [`requirements.txt`](requirements.txt) for full dependency list.
@@ -142,7 +133,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**Adda Durga**  
+**A D S ABHISHEK**  
 CodeAlpha Internship — Task 3  
 GitHub: [@addadugurudurga2024-lang](https://github.com/addadugurudurga2024-lang)
 
